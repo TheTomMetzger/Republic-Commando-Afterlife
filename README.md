@@ -21,7 +21,7 @@ If you only want the executables, you can find them on https://github.com/TheTom
 <li>Be careful, if you shoot for too long, your gun will overheat and it will have to cool before you can use it again (overheat level denoted by the reticle)</li>
 </ul>
 
-<h3>Recommended Settings:</li>
+<h3>Recommended Settings:<h3>
 <ul>
 <li>Set to windowed</li>
 <li>Set graphics to "Fantastic"</li>
