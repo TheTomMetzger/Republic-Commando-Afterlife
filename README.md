@@ -1,5 +1,5 @@
 # Republic Commando: Afterlife
-RC-1138 (Boss) wakes up in a desolate wasteland. He has no knowledge of how he got there or why he was there. Seeming, he's the only living being there. But then, out of the shadows,he sees some people walking. Upon further inspection, they aren't people at all - they're zombies! Now Boss must not only remember that which has been wiped from his memory, he must survive endless waves of the under...
+RC-1138 (Boss) wakes up in a desolate wasteland. He has no knowledge of how he got there or why he was there. Seeming, he's the only living being there. But then, out of the shadows,he sees some people walking. Upon further inspection, they aren't people at all - they're zombies! Now Boss must not only remember that which has been wiped from his memory, he must survive endless waves of the undead...
 
 
 The game was too large to host on GitHub, so you can find the source code here (Microsoft Account needed to view): https://thetommetzger.visualstudio.com/DefaultCollection/Republic%20Commando%20-%20Afterlife/_dashboards
